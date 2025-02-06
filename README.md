@@ -1,10 +1,7 @@
-# Vite & HeroUI Template
+# LoFi Radio
+Este proyecto es un sitio web de música lofi desarrollado con React, TypeScript y HeroUI, diseñado para brindar una experiencia relajante a los amantes de este género. Su interfaz minimalista y estética crean un ambiente tranquilo y acogedor. La inspiración surgió de mi hábito de escuchar música lofi mientras programaba, así como del repositorio de [menoc61](https://github.com/menoc61/lofi-music-website](https://github.com/menoc61/lofi-music-website)) aunque construido desde cero con mi propio enfoque.
 
-This is a template for creating applications using Vite and HeroUI (v2).
-
-[Try it on CodeSandbox](https://githubbox.com/frontio-ai/vite-template)
-
-## Technologies Used
+## Tecnologías utilizadas
 
 - [Vite](https://vitejs.dev/guide/)
 - [HeroUI](https://heroui.com)
@@ -12,6 +9,11 @@ This is a template for creating applications using Vite and HeroUI (v2).
 - [Tailwind Variants](https://tailwind-variants.org)
 - [TypeScript](https://www.typescriptlang.org)
 - [Framer Motion](https://www.framer.com/motion)
+
+
+## Temas:
+### Claro: ![Tema Claro](https://res.cloudinary.com/dxxrdckad/image/upload/v1738854033/porfolio/eppfne8thx4uwducdkea.png)
+### Oscuro: ![Tema Oscuro](https://res.cloudinary.com/dxxrdckad/image/upload/v1738854035/porfolio/t8it7hxjgxwyzp0vikec.png)
 
 ## How to Use
 
